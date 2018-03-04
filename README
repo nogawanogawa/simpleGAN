@@ -1,0 +1,4 @@
+単純なGANの実装(python3.6で動作確認済み)
+
+# 実行
+python3 main.py
